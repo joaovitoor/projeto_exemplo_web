@@ -1,0 +1,28 @@
+{
+  "name": "projeto_exemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitoor/projeto_exemplo_web.git"
+  },
+  "author": "JoaoVitorP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitoor/projeto_exemplo_web/issues"
+  },
+  "homepage": "https://github.com/joaovitoor/projeto_exemplo_web#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^1.9.1",
+    "popper.js": "^1.16.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
